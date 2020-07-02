@@ -43,3 +43,4 @@ The program has two components:
 - [ ] Configurable crawler interval
 - [ ] Support multiple sites
 - [ ] Implement a rate limiter for the crawler
+- [ ] Moving away from using RwLock
